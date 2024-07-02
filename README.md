@@ -1,7 +1,6 @@
 Portfolio Website
 
 
-This project is a personal portfolio website built using React.js. It showcases my skills, projects, and experiences in a visually appealing and interactive manner.
 
 Features
 Responsive Design: The website is designed to work seamlessly across various devices and screen sizes.
