@@ -9,3 +9,6 @@ Contact: Allows visitors to get in touch with me via email or through social med
 Technologies Used
 React.js: The frontend of the website is built using React.js, a popular JavaScript library for building user interfaces.
 CSS: Custom styling is applied using CSS to enhance the visual appeal and responsiveness of the website.
+
+
+Live Demo :  https://main--ziadhusseinportfolio.netlify.app/
